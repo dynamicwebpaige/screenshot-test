@@ -1,0 +1,3 @@
+- url: https://docs.ray.io/en/latest/tune/index.html
+  output: shot.png
+  height: 800
